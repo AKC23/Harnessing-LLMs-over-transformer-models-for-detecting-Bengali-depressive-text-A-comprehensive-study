@@ -1,6 +1,5 @@
 # Harnessing large language models over transformer models for detecting Bengali depressive social media text: A comprehensive study
 
-
 ## Abstract
 In an era where the silent struggle of underdiagnosed depression pervades globally, our research delves into the crucial link between mental health and social media. This work focuses on early detection of depression, particularly in extroverted social media users, using LLMs such as GPT 3.5, GPT 4 and our proposed GPT
 3.5 fine-tuned model DepGPT, as well as advanced Deep learning models(LSTM, Bi-LSTM, GRU, BiGRU) and Transformer models(BERT, BanglaBERT, SahajBERT, BanglaBERT-Base). The study categorized Reddit and X datasets into ‘‘Depressive’’ and ‘‘Non-Depressive’’ segments, translated into Bengali by native speakers with expertise in mental health, resulting in the creation of the Bengali Social Media Depressive Dataset (BSMDD). 
@@ -10,7 +9,6 @@ Our work provides full architecture details for each model and a methodical way 
 ## Proposed Methodology
 
 ![Methodology](https://github.com/AKC23/Harnessing-LLMs-over-transformer-models-for-detecting-Bengali-depressive-text-A-comprehensive-study/assets/57568723/f239f1c7-951e-4c66-a735-1aa2fdb08e77)
-
 
 ## Paper
 Accepted version - [ResearchGate](https://www.researchgate.net/publication/380628761_Harnessing_large_language_models_over_transformer_models_for_detecting_Bengali_depressive_social_media_text_A_comprehensive_study) <br>
