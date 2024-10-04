@@ -11,7 +11,7 @@ Our work provides full architecture details for each model and a methodical way 
 ![Methodology](https://github.com/AKC23/Harnessing-LLMs-over-transformer-models-for-detecting-Bengali-depressive-text-A-comprehensive-study/assets/57568723/f239f1c7-951e-4c66-a735-1aa2fdb08e77)
 
 ## Dataset: BSMDD
-![Dataset]()
+![Dataset](https://github.com/AKC23/Harnessing-LLMs-over-transformer-models-for-detecting-Bengali-depressive-text-A-comprehensive-study/blob/main/Dataset/dataset_table.JPG?raw=true)
 
 ## Paper
 Accepted version - [ResearchGate](https://www.researchgate.net/publication/380628761_Harnessing_large_language_models_over_transformer_models_for_detecting_Bengali_depressive_social_media_text_A_comprehensive_study) <br>
