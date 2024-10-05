@@ -9,7 +9,7 @@ Our research highlights the performance of SahajBERT and Bi-LSTM (FastText) for 
 ![Methodology](https://github.com/AKC23/Harnessing-LLMs-over-transformer-models-for-detecting-Bengali-depressive-text-A-comprehensive-study/assets/57568723/f239f1c7-951e-4c66-a735-1aa2fdb08e77)
 
 ## Dataset: BSMDD
-Our dataset, [BSMDD](https://github.com/SR-Sujon/Harnessing-LLMs-over-transformer-models-for-detecting-Bengali-depressive-text-A-comprehensive-study/tree/main/Dataset), is translated and annotated by native Bengali speakers proficient in both English and Bengali, with a background in mental health. The dataset is available for public access, contributing to further research in depression detection in Bengali social media content. Please, cite this paper if you do further experimentation on this dataset. 21,911 cleaned labeled data sampled is published for open access. 
+Our dataset, [BSMDD](https://github.com/SR-Sujon/Harnessing-LLMs-over-transformer-models-for-detecting-Bengali-depressive-text-A-comprehensive-study/tree/main/Dataset), is translated and annotated by native Bengali speakers proficient in both English and Bengali, with a background in mental health. The dataset is available for public access, contributing to further research in depression detection in Bengali social media content. Please, cite this paper if you do further experimentation on this dataset. Approximately, 21,910 cleaned data samples, 10,961 Depressed (labeled 1) and 10,949 Non-Depressed (labeled 0) is published for open access. 
 
 ![Dataset](https://github.com/AKC23/Harnessing-LLMs-over-transformer-models-for-detecting-Bengali-depressive-text-A-comprehensive-study/blob/main/Dataset/dataset_table.JPG?raw=true)
 
