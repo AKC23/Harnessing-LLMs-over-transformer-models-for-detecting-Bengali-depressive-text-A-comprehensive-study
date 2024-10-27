@@ -7,7 +7,7 @@ Our research highlights the performance of SahajBERT and Bi-LSTM (FastText) for 
 
 ## Proposed Methodology
 <div align="center">
-    <img src="https://github.com/AKC23/Harnessing-LLMs-over-transformer-models-for-detecting-Bengali-depressive-text-A-comprehensive-study/assets/57568723/f239f1c7-951e-4c66-a735-1aa2fdb08e77" alt="Methodology" width="80%">
+    <img src="https://github.com/AKC23/Harnessing-LLMs-over-transformer-models-for-detecting-Bengali-depressive-text-A-comprehensive-study/assets/57568723/f239f1c7-951e-4c66-a735-1aa2fdb08e77" alt="Methodology" width="100%">
 </div>
 
 
